@@ -1,0 +1,31 @@
+.item {
+  background-color: lightgrey;
+  flex-grow: 1;
+}
+
+.container {
+  background-color: black;
+  height: 800px;
+  width: 900px;
+  flex-direction: column;
+  display: flex;
+  gap: 10px;
+}
+
+.header {
+  background-color: orange;
+  flex-grow: 1;
+}
+
+.bodyy {
+  background-color: white;
+  flex-grow: 1;
+  display: flex;
+  gap: 10px;
+</style>
+}
+
+.footer {
+  background-color: green;
+  flex-grow: 1;
+}
