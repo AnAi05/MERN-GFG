@@ -28,7 +28,7 @@ function App() {
     <>
       <Header />
       <BodyComponent />
-      <Footer />
+    
     </>
   );
 }
